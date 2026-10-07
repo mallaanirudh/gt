@@ -1,0 +1,14 @@
+{
+  "node": {
+    "fd99b8c47bdd9d1c51ede61aa136b646a3dd0dab": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalla%5C%5Cprojects%5C%5Cgt%5C%5Capp%5C%5Cactions%5C%5Cvote.ts%22%2C%5B%22castVoteAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "1q+0VrCwAQS/M9/ytxY7U2T2MvcTLNYoHLz0atqjfbw="
+}
